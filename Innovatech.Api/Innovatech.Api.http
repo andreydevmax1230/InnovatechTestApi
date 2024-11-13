@@ -1,0 +1,6 @@
+@Innovatech.Api_HostAddress = http://localhost:5031
+
+GET {{Innovatech.Api_HostAddress}}/task/
+Accept: application/json
+
+###
