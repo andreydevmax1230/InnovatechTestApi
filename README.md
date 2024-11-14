@@ -31,3 +31,9 @@ La aplicacion debería generar la interfaz por Swagger para poder ejecutar los m
 
 ![imagen](https://github.com/user-attachments/assets/da81f46a-f7a1-4080-8de0-c0413d23c483)
 
+# Pruebas Unitarias
+Las pruebas unitarias se encuentra en el proyecto (Innovatech.UnitTest) como se muestra en la siguiente imagen:
+
+![image](https://github.com/user-attachments/assets/ddaf8f74-88e4-438f-ae24-ac59598bfca9)
+
+
