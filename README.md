@@ -27,3 +27,7 @@ En al interfaz de visual studio, desde la opcion de ejecutar la aplicacion, se p
 
 ![imagen](https://github.com/user-attachments/assets/dc7b3b30-bb29-481a-80a2-deb2bb982b45)
 
+La aplicacion debería generar la interfaz por Swagger para poder ejecutar los metodos del sistema.
+
+![imagen](https://github.com/user-attachments/assets/da81f46a-f7a1-4080-8de0-c0413d23c483)
+
